@@ -1,0 +1,14 @@
+# Table of contents
+
+format: jb-book
+root: intro 
+parts:
+
+  - caption: Extracting PDBs
+    numbered: False
+    chapters:
+    - url: https://github.com/feiglab/nair-sciencefair-2022/raw/main/extractingpdbs/culled.list
+      title: Culled List
+    - file: extractingpdbs/ProcessPDBList.ipynb
+ 
+
